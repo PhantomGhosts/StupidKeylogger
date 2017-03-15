@@ -8,7 +8,7 @@ This tacky program hides itself in the subject’s PC (Windows XP or later), and
 
 ### How to use?
 
-1. Download the full package from [here](https://github.com/MinhasKamal/StupidKeylogger/archive/application.zip), unzip it, and move it to your pen-drive. It should look something like this-
+1. Download the full package from OBSOLETE [here](https://github.com/MinhasKamal/StupidKeylogger/archive/application.zip), unzip it, and move it to your pen-drive. It should look something like this-
 
  <div align="center">
    <img src="https://cloud.githubusercontent.com/assets/5456665/18231884/984f4d58-72e5-11e6-8401-725c6906c040.PNG" alt="StupidKeylogger"/>
