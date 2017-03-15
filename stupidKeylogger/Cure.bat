@@ -1,4 +1,4 @@
-del "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\WindowsShell.lnk"
-del %appdata%\Record.log
+del "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\WindowsShell.lnk"
+del "C:\Users\%USERNAME%\AppData\Roaming\Record.log"
 TASKKILL /F /IM WindowsShell.exe /T
-del %appdata%\WindowsShell.exe
+del "C:\Users\%USERNAME%\AppData\Roaming\WindowsShell.exe"

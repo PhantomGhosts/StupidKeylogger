@@ -1,1 +1,1 @@
-copy %appdata%\Record.log
+copy "C:\Users\%USERNAME%\AppData\Roaming\Record.log"
