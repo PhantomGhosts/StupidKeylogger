@@ -98,7 +98,7 @@ char* decode(int i){
         //break;
     case 13:
         ch="\n";    //enter
-        remember=i;
+        //remember=i;
         break;
     case 16:
         ch="[SH]";  //shift
